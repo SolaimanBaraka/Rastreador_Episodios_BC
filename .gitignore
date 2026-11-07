@@ -1,0 +1,5 @@
+# Caché de la wiki: actualizar.mjs la vuelve a bajar
+wiki-cache/
+node_modules/
+.DS_Store
+Thumbs.db
